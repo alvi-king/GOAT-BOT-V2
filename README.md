@@ -26,7 +26,6 @@
 
 🌗 𝙰𝚍𝚊𝚙𝚝𝚒𝚟𝚎 𝚄𝙸
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvi-king&show_icons=true&theme=default#gh-light-mode-only"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alvi-king&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></div>
 
 🚀 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝
