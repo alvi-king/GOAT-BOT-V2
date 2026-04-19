@@ -1,33 +1,33 @@
-┌─────────────────────────────────────────────
-│             GOAT ADVANCED
+┌─────────────────────────────────────────
+│             GOAT-BOT-V2
 │       STEP-BY-STEP INSTALL GUIDE
-└─────────────────────────────────────────────
+└─────────────────────────────────────────
 
-This guide will show you how to set up GOAT ADVANCED, deploy it on Render, and monitor it using UptimeRobot.
+This guide will show you how to set up GOAT-BOT-V2, deploy it on Render, and monitor it using UptimeRobot.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 1️⃣ IMPORT REPOSITORY ON GITHUB
 
 1. Log in to Github.
 2. Click New Repository → Import repository.
 3. Paste the repository link:
-   https://github.com/akashx404/GOAT-ADVANCED.git
+   https://github.com/alvi-king/GOAT-BOT-V2.git
 4. Select Private Repository.
 5. Click Begin import.
 
 > Now your own private repository has been created.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 2️⃣ CONFIGURE config.json
 
 1. Clone the repository or edit config.json on Github.
 2. Set the following values:
 
 {
-  "nickNameBot": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
+  "nickNameBot": "─⃜͢͢͟͟͞͞❥⍣⃟─͢❥Տʜɪᴢᴜᴋꫝᥫ⍣⃟─⃜⃜͢͢─❥",
   "adminBot": [
-    "100078049308655",
-    "61577213967981"
+    "100001609058878",
+    "ADMIN_ID_2"
   ],
   "uid": "YOUR_FB_UID"
 }
@@ -36,7 +36,7 @@ This guide will show you how to set up GOAT ADVANCED, deploy it on Render, and m
 - adminBot: Facebook IDs of the admins.
 - uid: Your Facebook user ID.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 3️⃣ EXPORT FACEBOOK COOKIE
 
 1. Install C3C FBState Utility Extension.
@@ -46,7 +46,7 @@ This guide will show you how to set up GOAT ADVANCED, deploy it on Render, and m
 
 > Keep this file safe, do not share it with anyone.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 4️⃣ DEPLOY ON RENDER
 
 1. Log in to Render.com.
@@ -55,7 +55,7 @@ This guide will show you how to set up GOAT ADVANCED, deploy it on Render, and m
 4. Click Deploy.
 5. Once deployed, copy the Render URL.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 5️⃣ MONITOR WITH UPTIMEROBOT
 
 1. Log in to UptimeRobot.com.
@@ -66,7 +66,7 @@ This guide will show you how to set up GOAT ADVANCED, deploy it on Render, and m
 
 > Your bot will now run 24/7 and be monitored by UptimeRobot.
 
-─────────────────────────────────────────────
+──────────────────────────────────────────
 CONGRATULATIONS
 You have successfully set up GOAT BOT V2. Your bot is now running and your admin IDs are active.
 ─────────────────────────────────────────────
